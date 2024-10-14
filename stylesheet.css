@@ -1,0 +1,12 @@
+*{
+    background-color: bisque;
+}
+.Portfolio{display: flex;
+    margin-right: 50%;
+    justify-content: center; 
+    }
+
+.aboutMe{display: flex;
+    margin-right: 50%;
+    justify-content: center; 
+    }
